@@ -253,6 +253,6 @@ hi def link asciidocHLabel Label
 
 " hi def link asciidocAttributeMacro Macro
 " hi def link asciidocList Label
-let b:current_syntax = "asciidoc"
+let b:current_syntax = "asciido"
 
 " vim: wrap et sw=2 sts=2:
